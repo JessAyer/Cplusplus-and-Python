@@ -3,7 +3,7 @@
 # Summarize the project and what problem it was solving:
 The primary goal of this project was to show competency in combining languages. The project itself intakes a list of items and retuns the count for each items numerically and visually through a histogram. It is designed to help a store gain data on their daily sales of each product. This project uses both C++ and Python to demenstrate the individual strengths of each language and how combining them can be a powerful tool for a software engineer. 
 
-# What did you do particularly well?:
+# What did you do particularly well?
 My project demonstrates an efficient code with a visually appealing output. It utilizes built in methods for both python C++ that streamline the code making it both managable and easy to read. It validates user input when selecting menue options are returnes error messages when recieving incorrect input. Using a switch in C++ eliminated excess lines of code. Taking advantage of pythons count method and ability to easily switch between a list and a set simplified the process each function needed to perform.  
 
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
